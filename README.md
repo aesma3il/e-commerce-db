@@ -32,30 +32,6 @@ The system supports product management, customer accounts, order processing, pay
 
 ---
 
-## Project Structure
-
-e-commerce-db/
-│
-├── docs/
-│   ├── requirements.md
-│   ├── use-cases.md
-│   ├── domain-analysis.md
-│   ├── decisions.md
-│   └── erd.png
-│
-├── database/
-│   ├── schema/
-│   ├── migrations/
-│   ├── seed/
-│   ├── procedures/
-│   ├── views/
-│   ├── indexes/
-│   └── queries/
-│
-├── tests/
-└── README.md
-
----
 
 ## Domain Summary
 

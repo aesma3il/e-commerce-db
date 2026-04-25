@@ -1,0 +1,11 @@
+mkdir docs
+mkdir database
+mkdir database/schema
+mkdir database/migrations
+mkdir database/seed
+mkdir database/procedures
+mkdir database/views
+mkdir database/indexes
+mkdir database/queries
+mkdir tests
+mkdir scripts

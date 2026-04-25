@@ -1,4 +1,4 @@
-# E-Commerce Database Requirements
+# E-Commerce Database Requirements for the online shoping
 
 ## 1. Product Catalog Management
 The system should store product information including:
